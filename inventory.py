@@ -1,4 +1,3 @@
-# inventory.py
 from typing import List, Dict, Type, Optional
 from datetime import datetime
 from product import Product, Grocery, Electronics, Clothing

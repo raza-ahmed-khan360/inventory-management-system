@@ -1,5 +1,3 @@
-# exceptions.py
-
 class InventoryError(Exception):
     """Base class for inventory management system exceptions."""
     pass
